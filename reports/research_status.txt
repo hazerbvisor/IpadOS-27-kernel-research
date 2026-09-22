@@ -1,0 +1,14 @@
+Research status — 2026-09-22
+
+Reference repository: hazerbvisor/xnu-kernel-research
+Target repository: hazerbvisor/IpadOS-27-kernel-research
+
+The older reference tree is from the XNU 12377 generation. Public version records for iOS/iPadOS 27 show the XNU 13432 generation, including 13432.0.94 for the 27.0 beta 4 period.
+
+The target repository contains kernelcache.zip (24,953,994 bytes; Git blob ff6f1af3ee61f6935f113cc43de6038d91c45ff2).
+
+The connected repository interface can read text files and metadata but does not provide the binary bytes of this ZIP to the local analysis environment, so the archive was not extracted in this run. Exact file-by-file comparison is pending binary access.
+
+Public references:
+https://github.com/blacktop/ipsw-diffs/tree/main/27_0_24A5380h_vs_27_0_24A5390f
+https://theapplewiki.com/wiki/XNU
